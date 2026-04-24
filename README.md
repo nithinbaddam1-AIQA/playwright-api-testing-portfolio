@@ -1,1 +1,3 @@
+# 🎭 Playwright API & UI Testing Portfolio
 
+> **Built by Nithin Reddy Baddam** — QA Engineer with 3+ years...
