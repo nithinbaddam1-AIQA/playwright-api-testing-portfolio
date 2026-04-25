@@ -92,9 +92,9 @@ See .github/workflows/playwright.yml for full config.
 
 📬 Connect With Me
 
-LinkedIn: linkedin.com/in/nithinbaddamqa
+LinkedIn: linkedin.com/in/nithin-reddy-baddam-349064205
 GitHub: github.com/nithinbaddam1-AIQA
-Email: nithin.baddam@email.com
+Email: nithinbaddam1@gmail.com
 
 
 "Good QA isn't just finding bugs — it's building confidence in the system."
